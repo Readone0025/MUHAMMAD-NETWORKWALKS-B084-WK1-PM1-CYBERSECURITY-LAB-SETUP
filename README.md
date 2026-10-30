@@ -229,4 +229,4 @@ This lab is for **learning only**. Only test systems that you own or have writte
 **Muhammad**
 Cybersecurity student 
 
-**Program:** Cybersecurity at Networkwalks · **Week:** 01 · **Project:** WK1-PM1 Lab Setup
+**Program:** Cybersecurity Intern at Networkwalks · **Week:** 01 · **Project:** WK1-PM1 Lab Setup
